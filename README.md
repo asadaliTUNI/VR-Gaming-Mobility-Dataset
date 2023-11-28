@@ -1,6 +1,3 @@
-# EyeVRDataset
-Eye-Tracking and Navigation Dataset
-
 # Mobility VR gamming
 User mobiilty dataset
 
